@@ -91,13 +91,20 @@ transform: scale(1.1);
 	margin: 0;
 	font-size: 12px;
 }
+
+.embed-height{
+	height: 232px; 
+}
   
-@media (max-width: 700px){
+@media (max-width: 600px){
 	.cover-img{
 		max-height: 100px; 
 		width: auto;
 	}
 
+	main{
+		margin-top: 20px;
+	}
 	.post-text{
 		padding: 0;
 		padding-left: 12px; 
@@ -129,9 +136,11 @@ transform: scale(1.1);
   }
 
 	.date-dur-wrapper{
-	padding: 10px; 
-
-}
+		padding: 10px; 
+	}
+	.embed-height{
+		height: 152px; 
+	}
 }
 a{
   text-decoration: none;
