@@ -24,11 +24,20 @@ html, body{
 
 header{
 	height: 100px;
-	background: darkgray;
-	max-width: 700px; 
-	margin: auto;
-	padding: 25px; 
-
+	background-image: linear-gradient(
+                  0deg,
+                  hsl(197deg 92% 79%) 0%,
+                  hsl(203deg 93% 80%) 9%,
+                  hsl(208deg 94% 80%) 18%,
+                  hsl(213deg 94% 81%) 27%,
+                  hsl(219deg 95% 81%) 36%,
+                  hsl(224deg 95% 81%) 45%,
+                  hsl(230deg 96% 82%) 55%,
+                  hsl(235deg 97% 82%) 64%,
+                  hsl(241deg 98% 83%) 73%,
+                  hsl(246deg 98% 83%) 82%,
+                  hsl(252deg 99% 84%) 91%,
+                  hsl(257deg 100% 84%) 100% );
 }
 
 main{
@@ -194,7 +203,8 @@ h1{
 .header-title{
 	color: #282828; 
 	text-align: left;
-	max-width: 500px; 
+	max-width: 700px; 
+	margin: auto;
 	padding-top: 5px;
 	font-family: economicaregular;
 	border: 1px solid white; 

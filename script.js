@@ -12,7 +12,7 @@ const episodes = [
 		
 		spotifyLink: "https://open.spotify.com/episode/6xEydQPulBxqQeKpFZGI7Zgo=1&sp_cid=45dc991a95447926fd5b01bffc8df363&t=1&utm_source=embed_player_p&utm_medium=desktop&nd=1",	
 		
-		cover: "../cover/005.jpg",
+		cover: "../cover/005.JPG",
 		
 		pageLink: "../ep/005/ep005.html"
 	},
@@ -31,7 +31,7 @@ const episodes = [
 		spotifyLink: 
 "https://open.spotify.com/episode/64ArWnIbVUiGAGkUOx5ZG1?  si=9364165586764ada",	
 		
-		cover: "../cover/005.jpg",
+		cover: "../cover/005.JPG",
 		
 		pageLink: "../ep/004/ep004.html"
 	},
@@ -50,7 +50,7 @@ const episodes = [
 		spotifyLink: 
 "https://open.spotify.com/episode/0VKXewXMeOA1SvABoXjfkg?si=64c10c2bbaaf4eb0",	
 		
-		cover: "../cover/005.jpg",
+		cover: "../cover/005.JPG",
 		
 		pageLink: "../ep/003/ep003.html"
 	},
@@ -69,7 +69,7 @@ const episodes = [
 		spotifyLink: 
 "https://open.spotify.com/episode/4raHbALZUTTCTAZS2XUwCY?si=f222aa65f9c04f3e",	
 		
-		cover: "../cover/005.jpg",
+		cover: "../cover/005.JPG",
 		
 		pageLink: "../ep/002/ep002.html"
 	},
@@ -88,7 +88,7 @@ const episodes = [
 		spotifyLink: 
 "https://open.spotify.com/episode/40Cx62u2sbg3UiiFVGP7tE?si=8af8ce2352514d0f",	
 		
-		cover: "../cover/005.jpg",
+		cover: "../cover/005.JPG",
 		
 		pageLink: "../ep/001/ep001.html"
 	} 
