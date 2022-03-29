@@ -129,6 +129,11 @@ transform: scale(1.1);
 }
   
 @media (max-width: 700px){
+
+	body{
+		font-size: 90%;
+	}
+	
 	.cover-img{
 		max-height: 100px; 
 		width: auto;
